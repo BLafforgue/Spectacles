@@ -17,3 +17,10 @@ Chaque ticket contient une date et une quantité de places. Une date n’est dis
 - Dates de la liste trier par ordre chronologique croissant
 - Le bouton d'ajout de ticket disparaît lorsqu'il n'y a plus qu'une seule date dans la liste
 - Si une date est sélectionné dans un ticket alors elle disparaît de la liste
+
+
+## Roadmap
+
+- Gérer les dates de la liste
+
+- Ajout de ticket en fonction des dates disponibles
